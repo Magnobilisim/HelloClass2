@@ -1,0 +1,8 @@
+{
+  "name": "HelloClass - Hybrid Education Platform",
+  "description": "A next-generation AI-powered education platform with social features, gamified exams, and an admin dashboard.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
